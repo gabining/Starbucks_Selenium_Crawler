@@ -1,2 +1,2 @@
 # Starbucks_Selenium_Crawler
-Crwaling Starbucks-Korea's website
+Crwaling Starbucks-Korea's website using Selenium
